@@ -12,7 +12,7 @@ class Person {
     }
     void input1(){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter name: ");
+        System.out.println("\n\n\n Enter name: ");
         name=sc.next();
         System.out.println("Enter gender :");
         gender=sc.next();
